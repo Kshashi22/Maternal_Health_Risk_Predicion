@@ -1,0 +1,8 @@
+{
+  "functions": {
+    "api/predict.py": {
+      "includeFiles": "model/**",
+      "maxDuration": 15
+    }
+  }
+}
