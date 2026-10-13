@@ -1,0 +1,6 @@
+*.ipynb
+*.docx
+app.py
+app1.py
+__pycache__
+.venv
